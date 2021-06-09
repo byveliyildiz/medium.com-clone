@@ -1,0 +1,42 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+/* Header Image */
+#img-1 {
+    margin-left: 100px;
+    margin-top: -0.25rem !important;
+}
+
+/* Header Background Color */
+.nav-bg {
+    background-color: #FFC017; 
+}
+
+/* Header Border */
+.nav-border {
+    border-bottom: 1px solid rgb(41, 41, 41);"
+}
+
+.disable-link {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+/* Negative Margin */
+.mt-n1 {
+    margin-top: -0.25rem !important;
+}
+
+/* Aside */
+.aside-buttons {
+    margin-top: 20px;
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+.footer-text > li {
+    margin-bottom: 10px ;
+}
