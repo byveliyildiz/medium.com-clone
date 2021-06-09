@@ -1,3 +1,3 @@
 # Medium.com-clone
 
-HTML, CSS, Bootstrap 4.6
+Redesigned homepage with HTML, CSS, Bootstrap 4.6
